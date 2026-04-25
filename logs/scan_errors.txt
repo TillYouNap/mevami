@@ -1,0 +1,2 @@
+[ENCODING ERROR] F:\Clone Hero Songs\Songs\Guitar Hero Guitar Zero\Guitar Zero Tier 5\5. Ten Years After - I'd Love To Change the World\song.ini
+[ERROR PARSEO] F:\Clone Hero Songs\Songs\Korn - K@#⁎%! (highfine)\song.ini → '%' must be followed by '%' or '(', found: '%!'
